@@ -1,0 +1,33 @@
+.NoScript {
+  background-color: #2e3440;
+  position: fixed;
+  color: #88c0d0;
+  top: 0;
+  right: 0;
+  width: 100%;
+  border-radius: 0.2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.75rem;
+  header {
+    color: #d8dee9;
+    font-size: 3rem;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-shadow: 5px 5px #5e81ac50;
+  }
+  .text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 0 2px 20px #8fbcbb;
+    text-align: center;
+    width: 70%;
+    margin: 1rem;
+  }
+}
