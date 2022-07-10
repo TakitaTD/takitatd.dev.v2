@@ -3,11 +3,11 @@ import styles from "./NoScript.module.scss";
 const NoScript = () => {
   return (
     <div className={styles.NoScript}>
-      <header>Hello. I've detected you're using NoScript</header>
+      <header>Hello. I&apos;ve detected you&apos;re using NoScript</header>
       <span className={styles.text}>
-        I love privacy too, but this site doesn't work quite well without a
-        little JS here and there, I'd appreciate if you'd disable it just for
-        this website. You won't regret it.
+        I love privacy too, but this site doesn&apos;t work quite well without a
+        little JS here and there, I&apos;d appreciate if you&apos;d disable it
+        just for this website. You won&apos;t regret it.
         <br />
         <span
           style={{
