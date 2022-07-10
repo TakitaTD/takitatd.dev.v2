@@ -20,6 +20,7 @@ const NoScript = () => {
           <a
             href="https://github.com/TakitaTD/takitatd.dev"
             target={"_blank"}
+            rel={"noreferrer"}
             style={{ display: "flex", margin: "1rem" }}
             title="Github"
           >
